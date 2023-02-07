@@ -24,6 +24,9 @@ public class Mulitselect
 		  else
 		  {
 			  System.out.println("not a multi select dd");
+			  System.out.println("not a multi select dd");
+			  
 		  }
+		  
 	  }
 }
